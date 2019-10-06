@@ -1,9 +1,10 @@
-body{ 
-    font-size: 22px;
-}
-p {
+.prog{
     color: green;
 }
-li{
-    color: orange;
+
+.list{
+    color:orange;
+}
+.body{
+    font-size: 24px;
 }
