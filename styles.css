@@ -1,9 +1,9 @@
-.body{ 
+body{ 
     font-size: 22px;
 }
-.paragraph {
+p {
     color: green;
 }
-.list{
+li{
     color: orange;
 }
